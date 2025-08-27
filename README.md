@@ -1,3 +1,8 @@
+![photo_2025-08-27_13-34-51](https://github.com/user-attachments/assets/875cce1e-e0fb-48b2-9332-3e0263c720a8)
+![photo_2025-08-27_13-34-29](https://github.com/user-attachments/assets/ea31a31a-29e0-47d1-a91d-f74ee527229d)
+![photo_2025-08-27_12-27-42](https://github.com/user-attachments/assets/951c6b2e-105d-47b3-abdb-26d20742860f)
+![photo_2025-08-27_12-27-41](https://github.com/user-attachments/assets/2c66bf38-d448-4be1-bc28-8885df8c42ae)
+![photo_2025-08-27_12-27-40](https://github.com/user-attachments/assets/7e1ba3eb-9cfc-4aeb-a5ea-de9b0b17cccc)
 # Online Music Player Project
 
 This is a music player project that provides features for online streaming, uploading, and downloading songs. The application is developed using Java for the backend and Flutter for the mobile app.
